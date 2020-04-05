@@ -1,0 +1,6 @@
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\bin\Debug\dda_algrithm.exe.config
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\bin\Debug\dda_algrithm.exe
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\bin\Debug\dda_algrithm.pdb
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\obj\Debug\dda_algrithm.csprojAssemblyReference.cache
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\obj\Debug\dda_algrithm.exe
+C:\Users\westlife\source\repos\dda_algrithm\dda_algrithm\obj\Debug\dda_algrithm.pdb
